@@ -1,2 +1,4 @@
-# coffe_website_with_HTML_CSS_JS
-Responsive coffee shop website built with HTML, CSS, and JavaScript, featuring Flexbox layouts, mobile navigation, and a Swiper.js testimonial slider.
+Coffee Shop Website
+
+This project is a fully responsive coffee shop website developed using HTML5, CSS3, and JavaScript.
+It includes a modern UI, mobile-friendly navigation, and interactive components such as a testimonial slider.
